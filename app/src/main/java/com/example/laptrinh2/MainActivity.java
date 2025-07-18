@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 if (isUserLoggedIn()) {
                     // Open create question activity
-                    Intent intent = new Intent(MainActivity.this, CreateQuestionActivity.class);
+                    Intent intent = new Intent(MainActivity.this, AddQuestionActivity.class);
                     startActivity(intent);
                 } else {
                     Toast.makeText(MainActivity.this,

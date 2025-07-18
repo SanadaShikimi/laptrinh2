@@ -31,6 +31,11 @@
     <color name="gray_light">#F5F5F5</color>
     <color name="gray">#9E9E9E</color>
     <color name="gray_dark">#424242</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="blue">#2196F3</color>
+    <color name="orange">#FF9800</color>
+    <color name="purple">#9C27B0</color>
 
     <!-- Text Colors -->
     <color name="text_primary">#212121</color>
@@ -41,6 +46,8 @@
     <color name="background">#FAFAFA</color>
     <color name="background_card">#FFFFFF</color>
     <color name="background_dark">#303030</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="surface_color">#FFFFFF</color>
 
     <!-- Button Colors -->
     <color name="button_primary">#2196F3</color>
@@ -52,9 +59,20 @@
     <color name="transparent">#00000000</color>
     <color name="semi_transparent">#80000000</color>
 
+    <!-- Score colors -->
+    <color name="score_background">#E3F2FD</color>
+    <color name="performance_background">#F3E5F5</color>
+
     <!-- Quiz Specific Colors -->
     <color name="correct_answer">#4CAF50</color>
     <color name="wrong_answer">#F44336</color>
     <color name="selected_answer">#2196F3</color>
     <color name="unselected_answer">#E0E0E0</color>
+    <color name="default_button">#EEEEEE</color>
+
+    <!-- Icon colors -->
+    <color name="icon_color">#616161</color>
+
+    <!-- Divider -->
+    <color name="divider_color">#E0E0E0</color>
 </resources>

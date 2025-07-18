@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">laptrinh2</string>
+    <!-- Categories Array -->
+    <string-array name="categories">
+        <item>Lập trình</item>
+        <item>Cơ sở dữ liệu</item>
+        <item>Mạng máy tính</item>
+        <item>Hệ điều hành</item>
+        <item>Phần mềm</item>
+        <item>Bảo mật</item>
+        <item>Trí tuệ nhân tạo</item>
+        <item>Khoa học máy tính</item>
+        <item>Công nghệ web</item>
+        <item>Mobile App</item>
+    </string-array>
+
+    <!-- Difficulties Array -->
+    <string-array name="difficulties">
+        <item>Dễ</item>
+        <item>Trung bình</item>
+        <item>Khó</item>
+        <item>Rất khó</item>
+    </string-array>
 </resources>
